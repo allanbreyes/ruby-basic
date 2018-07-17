@@ -11,4 +11,4 @@ A simple template for testing a Ruby script with `rspec` and `guard`.
 
 ### Notifications
 
-The Gemfile is set up for notifications through Linux/Gnome's `libnotify` daemon.  If you're on Mac, replace it with `growl`.  If you're on Windows, run the command `format c:` and type `Y`.
+The Gemfile is set up for notifications through Linux/GNOME's `libnotify` daemon.  If you're on Mac, replace it with `growl`.
